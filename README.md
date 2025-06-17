@@ -5,6 +5,7 @@
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=iluwatar_java-design-patterns&metric=ncloc)](https://sonarcloud.io/dashboard?id=iluwatar_java-design-patterns)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=iluwatar_java-design-patterns&metric=coverage)](https://sonarcloud.io/dashboard?id=iluwatar_java-design-patterns)
 [![Join the chat at https://gitter.im/iluwatar/java-design-patterns](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iluwatar/java-design-patterns?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAhmadkhas89%2Fsbomtest2.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAhmadkhas89%2Fsbomtest2?ref=badge_shield)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-387-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -52,6 +53,9 @@ The project contributors can get the book for free. Contact the maintainer via [
 # License
 
 This project is licensed under the terms of the MIT license.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAhmadkhas89%2Fsbomtest2.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAhmadkhas89%2Fsbomtest2?ref=badge_large)
 
 # Contributors
 
